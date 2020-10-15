@@ -1,4 +1,4 @@
-package com.wbs.simplog;
+package com.a1re1.simplog;
 
 import java.io.PrintStream;
 import java.time.Instant;
